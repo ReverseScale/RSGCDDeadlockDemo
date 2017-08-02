@@ -10,7 +10,7 @@
  
 | 名称 |1.列表页 
 | ------------- | ------------- | 
-| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-8-2/37748219.jpg) | 
+| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-8-2/72015487.jpg) | 
 | 描述 | 通过 storyboard 搭建基本框架的 GCD 示例列表 | 
 
 ## 前言
