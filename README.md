@@ -7,9 +7,11 @@
 ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
 对国内博客里面讲到的一些东西进行一些验证。对百度一些技术点加以验证。
-
-Demo效果展示：
- ![](http://og1yl0w9z.bkt.clouddn.com/17-8-2/37748219.jpg)
+ 
+| 名称 |1.列表页 
+| ------------- | ------------- | 
+| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-8-2/37748219.jpg) | 
+| 描述 | 通过 storyboard 搭建基本框架的 GCD 示例列表 | 
 
 ## 前言
 说到GCD，最基本的就是四个队列，两个函数和四种队列：
